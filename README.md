@@ -1,5 +1,5 @@
 <!-- INSTALL -->
-<h1>Intall Oh my posh first!</h1>
+<h1>Install Oh my posh first!</h1>
 
 <!-- markdownlint-disable -->
 <p align="center">
