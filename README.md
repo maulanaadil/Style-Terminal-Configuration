@@ -1,3 +1,6 @@
+<!-- INSTALL -->
+<h1>Intall Oh my posh first!</h1>
+
 <!-- markdownlint-disable -->
 <p align="center">
   <img
@@ -18,8 +21,6 @@
 ![GitHub Downloads][gh-downloads]
 
 ![Twitter][twitter]
-
-This repo was made with love using GitKraken.
 
 [![GitKraken shield][kraken]][kraken-ref]
 
